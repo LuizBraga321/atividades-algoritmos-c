@@ -6,8 +6,6 @@ Cada arquivo .c tem seu próprio main. Compile e execute um arquivo de cada vez.
 
 | Arquivos | Conteúdo |
 | --- | --- |
-| Aula_01 a Aula_03 | Exemplos de revisão sobre saída, variáveis e operadores |
-| Aula_04 | Categorias de natação, dias do mês, triângulos, saque com reserva, três números e menu |
 | Aula_05 | Consumo de água, cofrinho, atendimento, passos e oito exercícios de repetição |
 | Aula_06 | Cadastro de notas, vetores, matrizes, pesquisa e estoque |
 | Aula_07 | Doze atividades sobre funções |
